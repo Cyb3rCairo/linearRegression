@@ -30,11 +30,11 @@ este projeto existe para:
 
 ## 📊 Dataset
 
-- **Nome:** `Salary_Data.csv`
+- **Nome:** `Salary_Data.csv` e `Experience-Salary.csv`
 - **Features:**
-  - `YearsExperience` → anos de experiência
+  - `YearsExperience` → anos de experiência | `exp(in months)"`
 - **Target:**
-  - `Salary` → salário anual
+  - `Salary` → salário anual | `salary(in thousands)`
 
 Dataset simples, ideal para regressão linear básica.
 
